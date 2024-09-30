@@ -33,3 +33,8 @@ To run the project locally, follow these steps:
 4. Run the app:
     ```bash
     npm start
+
+## Demo
+
+https://github.com/user-attachments/assets/65fe2e31-8ca7-4a74-9ae5-380425bd7f5a
+
