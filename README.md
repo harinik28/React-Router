@@ -34,6 +34,11 @@ To run the project locally, follow these steps:
     ```bash
     npm start
 
+## Usage
+This project showcases how to:
+- Set up a basic React Router.
+- Create different pages and routes (Home, About, Contact, etc.).
+- Utilize Link and NavLink for navigation.
 ## Demo
 
 https://github.com/user-attachments/assets/65fe2e31-8ca7-4a74-9ae5-380425bd7f5a
